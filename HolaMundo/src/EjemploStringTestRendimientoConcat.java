@@ -16,6 +16,9 @@ public class EjemploStringTestRendimientoConcat {
             //append es la manera de concatenar en StringBuilder
         }
 
+        System.gc(); //El garbage collector nos ayuda a limpiar y reciclar las instancias, esto para liberar memoria, se hace de manera automática
+        //pero también lo podemos invocar como en este caso, pude estar al final o en medio.
+
         long fin = System.currentTimeMillis();
         System.out.println(fin - inicio);
         System.out.println("c = " + c);
