@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="248bc514-a621-4a94-b6a5-efa8f40bbf88" name="Changes" comment="" />
+    <list default="true" id="248bc514-a621-4a94-b6a5-efa8f40bbf88" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesBuscar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesColumnasVariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesIdentidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesMarco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesSimetrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesStringFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesStringFor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesSumar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesSumarFilasColumnas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesTransponerMatriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjemploMatricesTrasnpuesta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OrientaciónAObjetos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramaImprimirSilla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramaImprimirX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,12 +48,47 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "shared-indexes"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="EjemploMatrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EjemploMatrices" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProgramaImprimirSilla">
+    <configuration name="EjemploMatricesIdentidad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploMatricesIdentidad" />
+      <module name="matrices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploMatricesMarco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploMatricesMarco" />
+      <module name="matrices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjemploMatricesSumarFilasColumnas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjemploMatricesSumarFilasColumnas" />
+      <module name="matrices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramaImprimirSilla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgramaImprimirSilla" />
+      <module name="matrices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramaImprimirX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgramaImprimirX" />
       <module name="matrices" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -44,7 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EjemploMatrices" />
+        <item itemvalue="Application.ProgramaImprimirSilla" />
+        <item itemvalue="Application.ProgramaImprimirX" />
+        <item itemvalue="Application.EjemploMatricesMarco" />
+        <item itemvalue="Application.EjemploMatricesIdentidad" />
+        <item itemvalue="Application.EjemploMatricesSumarFilasColumnas" />
       </list>
     </recent_temporary>
   </component>
